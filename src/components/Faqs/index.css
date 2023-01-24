@@ -11,6 +11,10 @@
   flex-direction: column;
   justify-content: center;
   padding: 30px;
+  align-items: center;
+}
+.unOrderedList {
+  padding-left: 0px;
 }
 .heading-styles {
   font-family: 'Roboto';
