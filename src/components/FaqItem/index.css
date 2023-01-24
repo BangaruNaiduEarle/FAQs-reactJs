@@ -1,1 +1,33 @@
 /* Write your code here. */
+.list-style {
+  list-style-type: none;
+  width: 70vw;
+}
+.list-item {
+  display: flex;
+  justify-content: space-between;
+}
+.main-list-item {
+  border: 1px solid #d7dae6;
+  border-radius: 16px;
+  padding: 8px;
+  margin-bottom: 16px;
+}
+.icon-btn {
+  background-color: transparent;
+  border: 0px solid;
+}
+.que {
+  color: #52606d;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+}
+.hroz {
+  border: 1px solid #d7dae6;
+}
+.para {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
